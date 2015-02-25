@@ -1,0 +1,17 @@
+Kurtulus Karasu, kurtuluskarasu@gmail.com
+Tarih: 25 Subat 2015
+-------------------------------------------------------------------------------------------
+
+Klasörler:
+mobil: mobil cihaz ile elde edilen veri seti
+tarayici: Samsung SCX-6545 tarayıcı ile 200 dpi'de elde edilen veri seti.
+orjinal: veri setinin orjinal metinleri
+
+-------------------------------------------------------------------------------------------
+Detaylar:
+
+Mobil cihaz veri seti (mobil): Yaklaşık 25 cm uzaklıkta 5 mega-pixel kameralı telefon ile (iPhone 4) 25 adet belgenin, herbir belgesinden 2 adet resim olmak üzere toplam 50 resim ".jpg" formatında oluşturuldu.
+Mobil cihazdan oluşturulan veri setindeki resimlerin çözünürlükleri yaklaşık olarak 1936x1936 pikseldir.
+
+Tarayici veri seti (tarayici): Samsung SCX-6545 tarayıcı ile 200dpi çözünürlükte 25 adet belgeden 25 adet resim ".jpg" formatında oluşturuldu.
+Tarayıcıdan oluşturulan veri setindeki resimlerin çözünürlükleri 1664x2338 pikseldir.
